@@ -24,3 +24,10 @@ p{
 ul{
 	color : white;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height: 10%
+}
